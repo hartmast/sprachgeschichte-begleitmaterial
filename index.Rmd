@@ -23,7 +23,7 @@ Ergänzend zu den unten aufgelisteten ausführlichen Tutorials finden Sie <a hre
 2.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/02-Arbeitsschritte.pdf" target="_blank">Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse</a>
 3.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/03-ANNIS.pdf" target="_blank">Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, ...)</a>
 4.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/04-CosmasII_Tutorial.pdf">Tutorial: COSMAS II (Deutsches Referenzkorpus)</a>
-5.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/05-FnhdC.pdf" target="_blank">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a> (R-Skript im Ordner <a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/begleitmaterial/FnhdC" target="_blank">FnhdC</a> auf GitHub)
+5.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/05-FnhdC.pdf" target="_blank">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a> (R-Skript im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/FnhdC" target="_blank">FnhdC</a> auf GitHub)
 
 # Von der Konkordanz zur Analyse
 6.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/06-Tabellen%20und%20Grafiken%20mit%20Excel%20und%20Calc.pdf" target="_blank">Tutorial: Tabellen und Grafiken mit Excel und Calc</a> (Material dazu im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/Excel_Einstieg" target="_blank">Excel_Einstieg</a> auf GitHub)
