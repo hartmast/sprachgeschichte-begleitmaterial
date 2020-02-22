@@ -30,9 +30,13 @@ Ergänzend zu den unten aufgelisteten ausführlichen Tutorials finden Sie <a hre
 7.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/07-Schnelleinstieg%20in%20R.pdf" target="_blank"> Tutorial: Schnelleinstieg in R</a> (Material dazu im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/R_Einstieg" target="_blank">R_Einstieg</a> auf GitHub)
 8.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/08-concordances.pdf" target="_blank">Tutorial: R-Paket „concordances“</a>
 
+# Tutorials für die "Schreibphase"
+<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/hausarbeiten.pdf">Wie man eine sprachwissenschaftliche (Seminar-)Arbeit schreibt</a>
+<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/Beispielsa%CC%88tze%20mit%20Hilfe%20von%20Makros%20formatieren.pdf">Beispielsätze mit Hilfe von Makros formatieren: Ein Tutorial für Microsoft Word</a>
+
 # Sonstiges
 <a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/loesungshinweise.pdf" target="_blank">Lösungshinweise zu den Aufgaben im Buch</a>
 
-Die Rohdaten und Skripts zu den Korpusanalysen sowie die Ergebnisse der experimentellen Studie zum am-Progressiv finden Sie <a href="<a href="https://github.com/hartmast/sprachgeschichte/tree/master/korpusanalysen" target="_blank">hier</a>.
+Die Rohdaten und Skripts zu den Korpusanalysen sowie die Ergebnisse der experimentellen Studie zum am-Progressiv finden Sie <a href="https://github.com/hartmast/sprachgeschichte/tree/master/korpusanalysen" target="_blank">hier</a>.
 
 Eine Liste mit Fehlern, die es in die Druckversion geschafft haben, finden Sie <a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/Errata.pdf" target="_blank">hier</a>.
